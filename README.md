@@ -61,6 +61,6 @@ Marketing Timing: Data on peak days and hours aids in planning promotions and lo
 Location Insights: Store-specific performance comparison informs investment or expansion planning.
 
 ##Screenshot
-
+Coffee Shop Sales  screenshot.png
 
 
